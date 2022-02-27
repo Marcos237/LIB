@@ -1,0 +1,12 @@
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\bin\Debug\net6.0\Conexao.Aplications.deps.json
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\bin\Debug\net6.0\Conexao.Aplications.dll
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\bin\Debug\net6.0\Conexao.Aplications.pdb
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.csproj.AssemblyReference.cache
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.GeneratedMSBuildEditorConfig.editorconfig
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.AssemblyInfoInputs.cache
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.AssemblyInfo.cs
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.csproj.CoreCompileInputs.cache
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.dll
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\refint\Conexao.Aplications.dll
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\Conexao.Aplications.pdb
+F:\MARCOS\GIT\WebApiCore6\ConexaoServices\obj\Debug\net6.0\ref\Conexao.Aplications.dll

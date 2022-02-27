@@ -1,0 +1,12 @@
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\bin\Debug\net6.0\Conexao.Domimio.deps.json
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\bin\Debug\net6.0\Conexao.Domimio.dll
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\bin\Debug\net6.0\Conexao.Domimio.pdb
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.csproj.AssemblyReference.cache
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.GeneratedMSBuildEditorConfig.editorconfig
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.AssemblyInfoInputs.cache
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.AssemblyInfo.cs
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.csproj.CoreCompileInputs.cache
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.dll
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\refint\Conexao.Domimio.dll
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\Conexao.Domimio.pdb
+F:\MARCOS\GIT\WebApiCore6\Conexao.Domimio\obj\Debug\net6.0\ref\Conexao.Domimio.dll
